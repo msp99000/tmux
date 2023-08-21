@@ -1,6 +1,6 @@
-# 0 to Tmux : Pro configuration for your terminal in easiest way possible
+## 0 to Tmux : Pro configuration for your terminal in easiest way possible
 
-## Installing TMUX
+### Installing TMUX
 
 <details>
   <summary> <b> MacOS </> </summary>
@@ -9,7 +9,6 @@
 
   ```
   brew install tmux
-
 ```
 
 </details>
